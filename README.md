@@ -52,15 +52,20 @@ flowchart
     end
 
 ```
+
 ![ALT](images/setup.jpg)
 ![ALT](images/server.jpg)
 
+## Media Server
+```
+IP address: 192.168.0.12 
+```
 ## DIY MIDI Instruments
 ![ALT](images/MIDI_Keyboard.jpg)
 
 ![ALT](images/Drum.jpg)
 These are the Midi keyboard and drum user interfaces for the user to play on .
-* The MIDI interfaces is powered and controlled by a Arduino Leonardo micro-controller 
+* The MIDI `eth0` interfaces is powered and controlled by a Arduino Leonardo micro-controller 
 * The wires are connected from the Arduino to the aluminium tape which is use as a conductive sensors for the users to touch. When they touch, it will register the desired tunes for the respective instruments.
 ## Audio Visual
 ![ALT](images/AudioVisual.jpg)
