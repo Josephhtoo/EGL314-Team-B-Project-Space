@@ -33,6 +33,25 @@ RJ45 LAN cable x 4<br>
 Arduino Leonardo x 3
 
 ## Setup 
+![Video Diagram](images/Video.jpg)
+![Audio Diagram](images/Audio.jpg)
+
+```mermaid
+graph 
+    subgraph Video Diagram
+        A[Laptop<br>Samsung Odyssey NT800G5H-X716] <-- Cat5/6 --> B[Media Server<br>LenovoThinkgstation] <--Cat5/6--> C[HDMI Extender TX<br> Kramer PT571]<--HDMI-->D[HDMI Extender RX<br>Kramer PT572] --HDMI--> E[Projector<br>Sony VPL SW360] 
+    F[240v] --> B
+    end
+```
+```mermaid 
+flowchart 
+    subgraph Control Diagram
+        A[Laptop<br>HP Zbook 15 G5] <--> B[Amplifier<br> XPA1002] --> C[Passive Speaker 1<br> Concourse Q5]
+        B[Amplifier<br> XPA1002] --> D[Passive Speaker 2<br> Concourse Q5]
+    F[240v] --> B
+    end
+
+```
 ![ALT](images/setup.jpg)
 ![ALT](images/server.jpg)
 
