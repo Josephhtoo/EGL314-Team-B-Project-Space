@@ -73,5 +73,4 @@ This is the program for the MIDI instruments which is used to programmed the tun
 
 
 
-Both of these URLs are parsed as links:
 
