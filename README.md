@@ -45,13 +45,14 @@ graph
 ```
 ```mermaid 
 flowchart 
-    subgraph Control Diagram
+    subgraph Audio Diagram
         A[Laptop<br>HP Zbook 15 G5] <--> B[Amplifier<br> XPA1002] --> C[Passive Speaker 1<br> Concourse Q5]
         B[Amplifier<br> XPA1002] --> D[Passive Speaker 2<br> Concourse Q5]
     F[240v] --> B
     end
 
 ```
+## Floor Plan
 
 ![ALT](images/setup.jpg)
 ![ALT](images/server.jpg)
