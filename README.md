@@ -24,7 +24,7 @@ USB type C to female LAN adapter x 2<br>
 
 ## Cables Required:<br>
 HDMI cable x 2<br>
-Terminal blocl to 4 bare end cable x 1<br>
+Terminal block to 4 bare end cable x 1<br>
 3.5mm to 4-way terminal block cable x 1<br>
 
 RJ45 LAN cable x 4<br>
