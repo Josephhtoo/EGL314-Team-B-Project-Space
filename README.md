@@ -13,6 +13,7 @@ Midi Keyboard: https://tal-software.com/products/tal-noisemaker<br>
 ## Hardware Required:<br>
 Arduino Leonardo x 3<br>
 Concourse Q5 speakers (nominal impedance 8Ohms, 35 Watts) x 2<br>
+XPA 1002 power amplifier x 1<br>
 Ultra Short Throw Projector, Sony VPL-SW630 x 1<br>
 Remaco Motorised Screen (with Controller for Up, Stop, Down Relay control) x 1<br>
 Laptops (HP ZBook 15 G5) x 2<br>
