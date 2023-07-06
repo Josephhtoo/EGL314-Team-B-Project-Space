@@ -37,6 +37,8 @@ Arduino Leonardo x 3
 ![Video Diagram](images/Video.jpg)
 ## Audio
 ![Audio Diagram](images/Audio.jpg)
+## Control
+![Control Diagram](images/controlphoto.jpeg)
 
 ## Floor Plan
 ![ALT](images/FloorPlan.jpg)
