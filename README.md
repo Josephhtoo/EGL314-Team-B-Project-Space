@@ -47,6 +47,7 @@ Arduino Leonardo x 3
 ![Capture](images/server.jpg)
 ![Capture](images/phidget_setup.jpg)
 ![Capture](images/MIDIsetup.jpg)
+![Capture](images/Rack.jpg)
 ## Media Server
 ```
 IP address: 192.168.0.12 
@@ -69,23 +70,31 @@ This is the program for the MIDI instruments which is used to programmed the tun
 
 ![Capture](images/TouchSensor.jpg)
 **Description:** Touch Sensor <br>
-**Model:** NA <br>
+**Model:** 1110 <br>
 **Manufacturer:** Phidgets <br>
-**P/N** 1110 <br>
+**P/N** NA <br>
 ![Capture](images/Phidget_Interface.jpg)
 **Description:** Phidget Controller interface <br>
-**Model:** NA <br>
+**Model:** 1018 <br>
 **Manufacturer:** Phidgets <br>
-**P/N** 1018 <br>
-![Capture](images/Projector.jpg)
+**P/N** NA <br>
+![Capture](images/Projector.jpg)x
 **Description:** Projector <br>
 **Model:** Sony VPL-SW630 <br>
 **Manufacturer:** Sony <br>
-**P/N**  <br>
+**P/N** NA <br>
 ![Capture](images/Speaker1.jpg)
-![Capture](images/Speaker2.jpg)
-![Capture](images/Rack.jpg)
+**Description:** Concourse Passive Speaker <br>
+**Model:** Concourse Quad 5  <br>
+**Manufacturer:** Yumpu <br>
+**P/N** Q5 <br>
+![Capture](images/XPA1002Amp.jpg)
+**Description:** Power Amplifier<br>
+**Model:** XPA 1002 <br>
+**Manufacturer:** Extron <br>
+**P/N:** 60-849-01 <br>
 ![Capture](images/server.jpg)
+
 
 
 
