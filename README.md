@@ -5,6 +5,7 @@
 Arduino IDE 1.8.16<br>
 Reaper 6.8.0<br>
 Wallpaper engine 2.2.18 <br>
+Pandoras Box and Widget Designer<br>
 ### **Plugins**
 Drums: https://decomposer.de/sitala/ <br>
 Midi Keyboard: https://tal-software.com/products/tal-noisemaker<br>
