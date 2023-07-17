@@ -46,6 +46,7 @@ Arduino Leonardo x 3
 ![Capture](images/setup.jpg)
 ![Capture](images/server.jpg)
 ![Capture](images/phidget_setup.jpg)
+Turns on the keyboard video
 ![Capture](images/MIDIsetup.jpg)
 ![Capture](images/Rack.jpg)
 ## Media Server
