@@ -46,8 +46,9 @@ Arduino Leonardo x 3
 ![Capture](images/setup.jpg)
 ![Capture](images/server.jpg)
 ![Capture](images/phidget_setup.jpg)
-Turns on the keyboard video
+Turns on the video
 ![Capture](images/MIDIsetup.jpg)
+The respective LEDs will turn on
 ![Capture](images/Rack.jpg)
 ## Media Server
 ```
@@ -59,13 +60,13 @@ IP address: 192.168.0.12
 ![ALT](images/Drum.jpg)
 These are the Midi keyboard and drum user interfaces for the user to play on .
 * The MIDI `eth0` interfaces is powered and controlled by a Arduino Leonardo micro-controller 
-* The wires are connected from the Arduino to the aluminium tape which is use as a conductive sensors for the users to touch. When they touch, it will register the desired tunes for the respective instruments.
+* The wires are connected from the Arduino to the aluminium tape which is use as a conductive sensors for the users to touch. When they touch, it will register the desired tunes for the respective instruments, which will be played.
 ## Audio Visual
 ![ALT](images/AudioVisual.jpg)
 Here is a photo of a audio visual response from wallpaper engine which is being translated from the musical notes that are being played by the user
 
 ![Alt](images/MIDIcode.jpg)
-This is the program for the MIDI instruments which is used to programmed the tunes and melody from the help with **Reaper software**.
+This is the program for the MIDI instruments which is used to programmed the tunes and melody with the help of **Reaper software**.
 
 ## Fixtures and Devices
 
