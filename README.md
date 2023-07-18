@@ -98,6 +98,10 @@ This is the program for the MIDI instruments which is used to programmed the tun
 **Manufacturer:** Extron <br>
 **P/N:** 60-849-01 <br>
 ![Capture](images/server.jpg)
+**Description:** Media Server<br>
+**Model:** ThinkStation
+**Manufacturer:** Lenovo
+**P/N:** N/A
 
 
 
