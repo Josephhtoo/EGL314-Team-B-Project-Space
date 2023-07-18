@@ -51,12 +51,13 @@ Phidgets that control the LED
 ![Capture](images/MIDIsetup.jpg)
 The respective LEDs will turn on
 ![Capture](images/rack2.jpg)
-## Media Server
+## Network Settings
 ```
-IP address: 192.168.0.12 
+Media server IP address: 192.168.0.12 
 ```
 ## DIY MIDI Instruments
 ![ALT](images/MIDI_Keyboard.jpg)
+MIDI Keyboard
 
 ![ALT](images/Drum.jpg)
 These are the Midi keyboard and drum user interfaces for the user to play on .
