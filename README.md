@@ -20,7 +20,7 @@ Remaco Motorised Screen (with Controller for Up, Stop, Down Relay control) x 1<b
 Laptops (HP ZBook 15 G5) x 2<br>
 HDMI over-twisted pair transmitter, KRAMER PT-571 x 1<br>
 HDMI over-twisted pair receiver, KRAMER PT-572+ x 1<br>
-Media Server(Lenovo Thinkstation) x1<br>
+Media Server(Lenovo Thinkstation) x2<br>
 
 USB type C to female LAN adapter x 2<br>
 
