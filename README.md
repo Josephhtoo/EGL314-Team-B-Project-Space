@@ -46,7 +46,7 @@ Arduino Leonardo x 3
 ## Setup 
 ![Capture](images/setup.jpg)
 ![Capture](images/server.jpg)
-![Capture](images/phidget_setup.jpg)
+![Capture](images/phidget_setup2.jpg)
 Turns on the video
 ![Capture](images/MIDIsetup.jpg)
 The respective LEDs will turn on
