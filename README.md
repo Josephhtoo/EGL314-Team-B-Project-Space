@@ -54,10 +54,12 @@ The video on the monitors will show the keys that will need to be pressed by pla
 ## Network Settings
 ```
 Media server IP address: 192.168.0.12 
+Laptop IP Address: 192.168.0.13
 ```
+# Proof of concept 
 ## DIY MIDI Instruments
 ![ALT](images/MIDI_Keyboard.jpg)
-MIDI Keyboard
+
 
 ![ALT](images/Drum.jpg)
 These are the Midi keyboard and drum user interfaces for the user to play on .
@@ -69,6 +71,14 @@ Here is a photo of a audio visual response from wallpaper engine which is being 
 
 ![Alt](images/MIDIcode.jpg)
 This is the program for the MIDI instruments which is used to programmed the tunes and melody with the help of **Reaper software**.
+
+# Minimum viable product
+## Cooperative game
+![Alt](images/Multiplayer.jpg)
+__This is the final product and its a multiplayer game, a song track will be played and players have to ne in sync with the melody. It's all about the timing and reaction, the  2 players must be able to hit the key at the right moment when the tiles falls on to the line shown.__
+
+![Alt](images/Percussion.jpg)
+__This game consist of the 2 instruments, console allows the user to pick either the 2 instrumennts displayed on the top, the drums or the piano.__
 
 ## Fixtures and Devices
 
@@ -82,7 +92,7 @@ This is the program for the MIDI instruments which is used to programmed the tun
 **Model:** 1018 <br>
 **Manufacturer:** Phidgets <br>
 **P/N** NA <br>
-![Capture](images/Projector.jpg)x
+![Capture](images/Projector.jpg)
 **Description:** Projector <br>
 **Model:** Sony VPL-SW630 <br>
 **Manufacturer:** Sony <br>
