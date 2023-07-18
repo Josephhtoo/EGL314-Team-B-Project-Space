@@ -50,7 +50,7 @@ Arduino Leonardo x 3
 Turns on the video
 ![Capture](images/MIDIsetup.jpg)
 The respective LEDs will turn on
-![Capture](images/Rack.jpg)
+![Capture](images/rack2.jpg)
 ## Media Server
 ```
 IP address: 192.168.0.12 
