@@ -72,12 +72,12 @@ This is the program for the MIDI instruments which is used to programmed the tun
 ## Fixtures and Devices
 
 ![Capture](images/TouchSensor.jpg)
-**Description:** Touch Sensor <br>
+**Description:** Touch Sensor. Used to start the video <br>
 **Model:** 1110 <br>
 **Manufacturer:** Phidgets <br>
 **P/N** NA <br>
 ![Capture](images/Phidget_Interface.jpg)
-**Description:** Phidget Controller interface <br>
+**Description:** Phidget Controller interface. Controls the touch sensor and LEDs <br>
 **Model:** 1018 <br>
 **Manufacturer:** Phidgets <br>
 **P/N** NA <br>
@@ -92,7 +92,7 @@ This is the program for the MIDI instruments which is used to programmed the tun
 **Manufacturer:** Yumpu <br>
 **P/N** Q5 <br>
 ![Capture](images/XPA1002Amp.jpg)
-**Description:** Power Amplifier<br>
+**Description:** Power Amplifier. Increases the power of the speakers<br>
 **Model:** XPA 1002 <br>
 **Manufacturer:** Extron <br>
 **P/N:** 60-849-01 <br>
