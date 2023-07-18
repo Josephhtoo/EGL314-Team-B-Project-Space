@@ -48,8 +48,8 @@ Arduino Leonardo x 3
 ![Capture](images/server.jpg)
 ![Capture](images/phidget_setup2.jpg)
 Phidgets that control the LED
-![Capture](images/MIDIsetup.jpg)
-The respective LEDs will turn on
+![Capture](images/keyboardled.jpg)
+The video on the monitors will show the keys that will need to be pressed by player 1 or 2 using the MIDI drumsticks. The LEDs on the 2 keyboards will also light up to indicate the correct LEDs to press
 ![Capture](images/rack2.jpg)
 ## Network Settings
 ```
