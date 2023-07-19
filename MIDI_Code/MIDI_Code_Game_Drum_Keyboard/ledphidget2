@@ -1,0 +1,144 @@
+If TC_Minute = 0 and TC_Seconds = 0 and TC_Frames = 1 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output0.SetState = False
+	Phidgets_InterfaceKit_8_8_8_2_2.Output1.SetState = False
+	Phidgets_InterfaceKit_8_8_8_2_2.Output2.SetState = False
+	Phidgets_InterfaceKit_8_8_8_2_2.Output3.SetState = False
+	Phidgets_InterfaceKit_8_8_8_2_2.Output4.SetState = False
+	Phidgets_InterfaceKit_8_8_8_2_2.Output5.SetState = False
+	Phidgets_InterfaceKit_8_8_8_2_2.Output6.SetState = False
+	Phidgets_InterfaceKit_8_8_8_2_2.Output7.SetState = False
+}
+Elseif TC_Minute = 0 and TC_Seconds = 11 and TC_Frames = 2 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output6.SetState = True
+}
+Elseif TC_Minute = 0 and TC_Seconds = 11 and TC_Frames = 18 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output6.SetState = False
+}
+Elseif TC_Minute = 0 and TC_Seconds = 11 and TC_Frames = 20 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output5.SetState = True
+}
+Elseif TC_Minute = 0 and TC_Seconds = 12 and TC_Frames = 13 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output5.SetState = False
+}
+Elseif TC_Minute = 0 and TC_Seconds = 12 and TC_Frames = 15 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output6.SetState = True
+}
+Elseif TC_Minute = 0 and TC_Seconds = 15 and TC_Frames = 0 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output6.SetState = False
+}
+Elseif TC_Minute = 0 and TC_Seconds = 15 and TC_Frames = 1 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output5.SetState = True
+}
+Elseif TC_Minute = 0 and TC_Seconds = 15 and TC_Frames = 19 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output5.SetState = False
+}
+Elseif TC_Minute = 0 and TC_Seconds = 15 and TC_Frames = 20 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output5.SetState = True
+}
+Elseif TC_Minute = 0 and TC_Seconds = 16 and TC_Frames = 13 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output5.SetState = False
+}
+Elseif TC_Minute = 0 and TC_Seconds = 16 and TC_Frames = 15 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output4.SetState = True
+	Phidgets_InterfaceKit_8_8_8_2_2.Output6.SetState = True
+}
+Elseif TC_Minute = 0 and TC_Seconds = 18 and TC_Frames = 24 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output4.SetState = False
+	Phidgets_InterfaceKit_8_8_8_2_2.Output6.SetState = False
+}
+Elseif TC_Minute = 0 and TC_Seconds = 21 and TC_Frames = 15 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output7.SetState = True
+}
+Elseif TC_Minute = 0 and TC_Seconds = 21 and TC_Frames = 24 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output7.SetState = False
+}
+Elseif TC_Minute = 0 and TC_Seconds = 22 and TC_Frames = 1 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output6.SetState = True
+}
+Elseif TC_Minute = 0 and TC_Seconds = 22 and TC_Frames = 13 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output6.SetState = False
+}
+Elseif TC_Minute = 0 and TC_Seconds = 24 and TC_Frames = 15 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output6.SetState = True
+}
+Elseif TC_Minute = 0 and TC_Seconds = 26 and TC_Frames = 23 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output6.SetState = False
+}
+Elseif TC_Minute = 0 and TC_Seconds = 29 and TC_Frames = 15 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output7.SetState = True
+}
+Elseif TC_Minute = 0 and TC_Seconds = 29 and TC_Frames = 24 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output7.SetState = False
+}
+Elseif TC_Minute = 0 and TC_Seconds = 30 and TC_Frames = 1 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output6.SetState = True
+}
+Elseif TC_Minute = 0 and TC_Seconds = 30 and TC_Frames = 12 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output6.SetState = False
+}
+Elseif TC_Minute = 0 and TC_Seconds = 30 and TC_Frames = 15 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output4.SetState = True
+}
+Elseif TC_Minute = 0 and TC_Seconds = 30 and TC_Frames = 23 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output4.SetState = False
+}
+Elseif TC_Minute = 0 and TC_Seconds = 32 and TC_Frames = 15 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output6.SetState = True
+}
+Elseif TC_Minute = 0 and TC_Seconds = 34 and TC_Frames = 23 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output6.SetState = False
+}
+Elseif TC_Minute = 0 and TC_Seconds = 37 and TC_Frames = 15 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output7.SetState = True
+}
+Elseif TC_Minute = 0 and TC_Seconds = 37 and TC_Frames = 24 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output7.SetState = False
+}
+Elseif TC_Minute = 0 and TC_Seconds = 38 and TC_Frames = 2 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output6.SetState = True
+}
+Elseif TC_Minute = 0 and TC_Seconds = 38 and TC_Frames = 11 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output6.SetState = False
+}
+Elseif TC_Minute = 0 and TC_Seconds = 45 and TC_Frames = 15 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output7.SetState = True
+}
+Elseif TC_Minute = 0 and TC_Seconds = 45 and TC_Frames = 23 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output7.SetState = False
+}
+Elseif TC_Minute = 0 and TC_Seconds = 46 and TC_Frames = 1 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output6.SetState = True
+}
+Elseif TC_Minute = 0 and TC_Seconds = 46 and TC_Frames = 10 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output6.SetState = False
+}
+Elseif TC_Minute = 0 and TC_Seconds = 46 and TC_Frames = 15 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output7.SetState = True
+}
+Elseif TC_Minute = 0 and TC_Seconds = 46 and TC_Frames = 23 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output7.SetState = False
+}
+Elseif TC_Minute = 0 and TC_Seconds = 48 and TC_Frames = 16 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output6.SetState = True
+}
+Elseif TC_Minute = 0 and TC_Seconds = 50 and TC_Frames = 0 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output6.SetState = False
+}
+Elseif TC_Minute = 0 and TC_Seconds = 50 and TC_Frames = 14 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output6.SetState = True
+}
+Elseif TC_Minute = 0 and TC_Seconds = 50 and TC_Frames = 22 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output6.SetState = False
+}
+Elseif TC_Minute = 0 and TC_Seconds = 51 and TC_Frames = 2 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output5.SetState = True
+}
+Elseif TC_Minute = 0 and TC_Seconds = 51 and TC_Frames = 15 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output5.SetState = False
+}
+Elseif TC_Minute = 0 and TC_Seconds = 52 and TC_Frames = 14 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output4.SetState = True
+}
+Elseif TC_Minute = 0 and TC_Seconds = 53 and TC_Frames = 23 {
+	Phidgets_InterfaceKit_8_8_8_2_2.Output4.SetState = False
+}
