@@ -4,8 +4,8 @@
 
 Arduino IDE 1.8.16<br>
 Reaper 6.8.0<br>
-Wallpaper engine 2.2.18 <br>
-Pandoras Box and Widget Designer<br>
+Wallpaper engi 2.2.18 <br>
+Pandoras Box and Widget Desigr<br>
 ### **Plugins**
 Drums: https://decomposer.de/sitala/ <br>
 Midi Keyboard: https://tal-software.com/products/tal-noisemaker<br>
@@ -49,9 +49,9 @@ Arduino Leonardo x 3
 ![Capture](images/phidget_setup2.jpg)
 Phidgets that control the LED
 ![Capture](images/keyboardled.jpg)
-The video on the monitors will show the keys that will need to be pressed by player 1 or 2 using the MIDI drumsticks. The LEDs on the 2 keyboards will also light up to indicate the correct keys to press
+The video on the monitors will show the keys that will ed to be pressed by player 1 or 2 using the MIDI drumsticks. The LEDs on the 2 keyboards will also light up to indicate the correct keys to press
 ![Capture](images/rack2.jpg)
-## Network Settings
+## twork Settings
 ```
 Media server IP address: 192.168.0.12 
 Laptop IP Address: 192.168.0.13
@@ -64,18 +64,18 @@ Laptop IP Address: 192.168.0.13
 ![ALT](images/Drum.jpg)
 These are the Midi keyboard and drum user interfaces for the user to play on .
 * The MIDI `eth0` interfaces is powered and controlled by a Arduino Leonardo micro-controller 
-* The wires are connected from the Arduino to the aluminium tape which is use as a conductive sensors for the users to touch. When they touch, it will register the desired tunes for the respective instruments, which will be played.
+* The wires are concted from the Arduino to the aluminium tape which is use as a conductive sensors for the users to touch. When they touch, it will register the desired tus for the respective instruments, which will be played.
 ## Audio Visual
 ![ALT](images/AudioVisual.jpg)
-Here is a photo of a audio visual response from wallpaper engine which is being translated from the musical notes that are being played by the user
+Here is a photo of a audio visual response from wallpaper engi which is being translated from the musical notes that are being played by the user
 
 ![Alt](images/MIDIcode.jpg)
-This is the program for the MIDI instruments which is used to programmed the tunes and melody with the help of **Reaper software**.
+This is the program for the MIDI instruments which is used to programmed the tus and melody with the help of **Reaper software**.
 
 # Minimum viable product
 ## Cooperative game
 ![Alt](images/Multiplayer.jpg)
-__This is the final product and its a multiplayer game, a song track will be played and players have to ne in sync with the melody. It's all about the timing and reaction, the  2 players must be able to hit the key at the right moment when the tiles falls on to the line shown.__
+__This is the final product and its a multiplayer game, a song track will be played and players have to be in sync with the melody. It's all about the timing and reaction, the  2 players must be able to hit the key at the right moment when the tiles fall on to the light shown.__
 
 ![Alt](images/Percussion.jpg)
 __This game consist of the 2 instruments, console allows the user to pick either the 2 instrumennts displayed on the top, the drums or the piano.__
