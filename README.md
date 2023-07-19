@@ -47,9 +47,9 @@ Arduino Leonardo x 3
 ![Capture](images/setup.jpg)
 ![Capture](images/server.jpg)
 ![Capture](images/phidget_setup2.jpg)
-Phidgets that control the LED
+Phidgets that control the LED, they are connected to a laptop
 ![Capture](images/keyboardled.jpg)
-The video on the monitors will show the keys that will be pressed by player 1 or 2 using the MIDI drumsticks. The LEDs on the 2 keyboards will also light up to indicate the correct keys to press
+The video on the monitors will show the keys that will be pressed by player 1 or 2 using the MIDI drumsticks. The red and green LEDs on the 2 keyboards will also light up to indicate the correct keys to press
 ![Capture](images/rack2.jpg)
 ## Network Settings
 ```
@@ -62,7 +62,7 @@ Laptop IP Address: 192.168.0.13
 
 
 ![ALT](images/Drum.jpg)
-These are the Midi keyboard and drum user interfaces for the user to play on .
+These are the Midi keyboard and drum user interfaces for users to play on.
 * The MIDI `eth0` interfaces is powered and controlled by a Arduino Leonardo micro-controller 
 * The wires are connected from the Arduino to the aluminium tape which is used as a conductive sensor for the users to touch. When they touch the keys with the drumstick, it will register and play the desired tunes for the respective instruments.
 ## Audio Visual
