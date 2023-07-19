@@ -30,9 +30,6 @@ Terminal block to 4 bare end cable x 1<br>
 3.5mm to 4-way terminal block cable x 1<br>
 RJ45 LAN cable x 4<br>
 
-## BOM List:<br>
-Arduino Leonardo x 3
-
 ## Video 
 ![Video Diagram](images/Video.jpg)
 ## Audio
@@ -47,7 +44,7 @@ Arduino Leonardo x 3
 ![Capture](images/setup.jpg)
 ![Capture](images/server.jpg)
 ![Capture](images/phidget_setup2.jpg)
-Phidgets that control the LED, they are connected to a laptop
+Phidgets that control the LED, they are connected to a laptop on the rack
 ![Capture](images/keyboardled.jpg)
 The video on the monitors will show the keys that will be pressed by player 1 or 2 using the MIDI drumsticks. The red and green LEDs on the 2 keyboards will also light up to indicate the correct keys to press
 ![Capture](images/rack2.jpg)
@@ -63,11 +60,11 @@ Laptop IP Address: 192.168.0.13
 
 ![ALT](images/Drum.jpg)
 These are the Midi keyboard and drum user interfaces for users to play on.
-* The MIDI `eth0` interfaces is powered and controlled by a Arduino Leonardo micro-controller 
+* The MIDI `eth0` interfaces are powered and controlled by Arduino Leonardo micro-controllers
 * The wires are connected from the Arduino to the aluminium tape which is used as a conductive sensor for the users to touch. When they touch the keys with the drumstick, it will register and play the desired tunes for the respective instruments.
 ## Audio Visual
 ![ALT](images/AudioVisual.jpg)
-Here is a photo of an audio visual response from wallpaper engine which is being translated from the musical notes that are being played by the user
+Here is a photo of an audio visual response from wallpaper engine which is being translated from the musical notes that are being played by the user from the MIDI instruments.
 
 ![Alt](images/MIDIcode.jpg)
 This is the program for the MIDI instruments which is used to program the tunes and melody with the help of **Reaper software**.
