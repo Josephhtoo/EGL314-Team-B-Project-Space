@@ -80,7 +80,7 @@ __This game consist of the 2 instruments, console allows the user to pick either
 ## Fixtures and Devices
 
 ![Capture](images/TouchSensor.jpg)
-**Description:** Touch Sensor. Used to start the video <br>
+**Description:** Touch Sensors. Used to start the video <br>
 **Model:** 1110 <br>
 **Manufacturer:** Phidgets <br>
 **P/N** NA <br>
