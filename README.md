@@ -112,12 +112,15 @@ __This is Mode 2, the game consist of the 2 instruments, console allows the user
 **Manufacturer:** Lenovo <br>
 **P/N:** N/A <br>
 
-## Demo Video **M**inimum **V**iable **P**roduct
+## Demo Video (**M**inimum **V**iable **P**roduct)
 
-Here is a [link][MVP_url] to YouTube for you to see how our project looks like, 
+Here is a link for our multiplayer [musical game station 1][station1_url] to YouTube (Multiplayer), and the second [musical percussion station 2][station2_url].
 
 
-[MVP_url]: https://youtu.be/DKCg_on9eKA
+[station1_url]: https://www.youtube.com/watch?v=DKCg_on9eKA&t=11s
+[station2_url]: https://youtu.be/bg39pkCY94s
+
+
 
 
 
