@@ -73,16 +73,16 @@ This is the program for the MIDI instruments which is used to program the tunes 
 # Minimum viable product
 ## Cooperative game
 ![Alt](images/Multiplayer.jpg)
-__This is the final product and its a multiplayer game, a song track will be played and players have to be in sync with the melody. It's all about the timing and reaction, the  2 players must be able to hit the key at the right moment when the tiles fall on to the light shown.__
+__This is Mode 1 and it is a multiplayer game, a song track will be played and players have to be in sync with the melody. It's all about the timing and reaction, the  2 players must be able to hit the key at the right moment when the tiles fall on to the light shown.__
 
 ![Alt](images/MVP_Station2.png)
 ![Alt](images/Percussion.jpg)
-__This game consist of the 2 instruments, console allows the user to play both 2 instruments displayed on the top, the drums and the piano.__
+__This is Mode 2, the game consist of the 2 instruments, console allows the user to play both 2 instruments displayed on the top, the drums and the piano.__
 
 ## Fixtures and Devices
 
 ![Capture](images/TouchSensor.jpg)
-**Description:** Touch Sensors. Used to start the video <br>
+**Description:** Touch Sensors. Used to start the videos. The Touch Sensor on the left will turn on Mode 1, and the Touch Sensor on the right will turn on Mode 2 <br>
 **Model:** 1110 <br>
 **Manufacturer:** Phidgets <br>
 **P/N** NA <br>
@@ -97,7 +97,7 @@ __This game consist of the 2 instruments, console allows the user to play both 2
 **Manufacturer:** Sony <br>
 **P/N** NA <br>
 ![Capture](images/Speaker1.jpg)
-**Description:** Concourse Passive Speaker <br>
+**Description:** Concourse Passive Speaker, provides audio output <br>
 **Model:** Concourse Quad 5  <br>
 **Manufacturer:** Yumpu <br>
 **P/N** Q5 <br>
