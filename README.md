@@ -1,4 +1,4 @@
-# EGL314 Team-B-Project-Space
+# MIDI SYMPHONY
 
 ## Software Required:<br>
 
@@ -42,7 +42,8 @@ RJ45 LAN cable x 4<br>
 
 ## Setup 
 ![Capture](images/setup.jpg)
-![Capture](images/server.jpg)
+![Capture](images/Media_Servers.jpg.jpg)
+![Capture](images/NetworkSwitch.jpg)
 ![Capture](images/phidget_setup2.jpg)
 Phidgets that control the LED, they are connected to a laptop on the rack
 ![Capture](images/keyboardled.jpg)
@@ -74,8 +75,9 @@ This is the program for the MIDI instruments which is used to program the tunes 
 ![Alt](images/Multiplayer.jpg)
 __This is the final product and its a multiplayer game, a song track will be played and players have to be in sync with the melody. It's all about the timing and reaction, the  2 players must be able to hit the key at the right moment when the tiles fall on to the light shown.__
 
+![Alt](images/MVP_Station2.png)
 ![Alt](images/Percussion.jpg)
-__This game consist of the 2 instruments, console allows the user to pick either the 2 instrumennts displayed on the top, the drums or the piano.__
+__This game consist of the 2 instruments, console allows the user to play both 2 instruments displayed on the top, the drums and the piano.__
 
 ## Fixtures and Devices
 
@@ -109,6 +111,15 @@ __This game consist of the 2 instruments, console allows the user to pick either
 **Model:** ThinkStation <br>
 **Manufacturer:** Lenovo <br>
 **P/N:** N/A <br>
+
+## Demo Video **M**inimum **V**iable **P**roduct
+
+Here is a [link][MVP_url] to YouTube for you to see how our project looks like, 
+
+
+[MVP_url]: https://youtu.be/DKCg_on9eKA
+
+
 
 
 
