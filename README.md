@@ -31,11 +31,11 @@ Terminal block to 4 bare end cable x 1<br>
 RJ45 LAN cable x 4<br>
 
 ## Video 
-![Video Diagram](images/Video.jpg)
+![Video Diagram](images/VideoSystemDiagram.jpg)
 ## Audio
-![Audio Diagram](images/Audio.jpg)
+![Audio Diagram](images/AudioSystemDiagram.jpg)
 ## Control
-![Control Diagram](images/controlphoto.jpeg)
+![Control Diagram](images/ControlSystemDiagram.jpg)
 
 ## Floor Plan
 ![ALT](images/FloorPlan.jpg)
