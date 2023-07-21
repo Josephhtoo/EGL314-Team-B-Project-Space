@@ -47,7 +47,7 @@ RJ45 LAN cable x 4<br>
 ![Capture](images/phidget_setup2.jpg)
 Phidgets that control the LED, they are connected to a laptop on the rack
 ![Capture](images/keyboardled.jpg)
-The video on the monitors will show the keys that will be pressed by player 1 or 2 using the MIDI drumsticks. The red and green LEDs on the 2 keyboards will also light up to indicate the correct keys to press
+The video on the monitors will show the keys that will be pressed by player 1 or 2 using the MIDI drumsticks. The red and green LEDs on the 2 keyboards will also light up to indicate the correct keys to press. LEDs will turn off if the player has to let go of the key.
 ![Capture](images/rack2.jpg)
 ## Network Settings
 ```
