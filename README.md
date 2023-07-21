@@ -42,7 +42,7 @@ RJ45 LAN cable x 4<br>
 
 ## Setup 
 ![Capture](images/setup.jpg)
-![Capture](images/Media_Servers.jpg.jpg)
+![Capture](images/Media_Servers.jpg)
 ![Capture](images/NetworkSwitch.jpg)
 ![Capture](images/phidget_setup2.jpg)
 Phidgets that control the LED, they are connected to a laptop on the rack
