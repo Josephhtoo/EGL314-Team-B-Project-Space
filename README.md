@@ -2,10 +2,10 @@
 
 ## Software Required:<br>
 
-Arduino IDE 1.8.16<br>
-Reaper 6.8.0<br>
+Arduino IDE 1.8.16 - Programming the Arduino Leonardo instruments<br>
+Reaper 6.8.0 - Used for audio production, creating the tunes of the instruments<br>
 Wallpaper engine 2.2.18 <br>
-Pandoras Box and Widget Designer<br>
+Pandoras Box and Widget Designer - Used to display videos on the monitors, and program touch sensors and LEDs<br>
 ### **Plugins**
 Drums: https://decomposer.de/sitala/ <br>
 Midi Keyboard: https://tal-software.com/products/tal-noisemaker<br>
