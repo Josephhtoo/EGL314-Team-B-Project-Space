@@ -119,6 +119,10 @@ Here is a link for our multiplayer [musical game station 1][station1_url] to You
 [station1_url]: https://www.youtube.com/watch?v=DKCg_on9eKA&t=11s
 [station2_url]: https://youtu.be/bg39pkCY94s
 
+## Final Product
+![Capture](images/Final_Products.jpg)
+This is the outlook of our setup for our final product
+
 
 
 
