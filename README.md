@@ -123,10 +123,12 @@ Here is a link for our multiplayer [musical game station 1][station1_url] to You
 
 ## Final Product
 ![Capture](images/Final_Products.jpg)
-This is the outlook of our setup for our final product. We removed the drum kit instrument and the 2 monitors and added videos to be displayed from a projector for each song.
+This is the outlook of our setup for our final product. We replaced the 2 touch sensors with a UI interface. We removed the drum kit instrument and the 2 monitors and added videos to be displayed from a projector for each song, using the software Pandora's Box.
+
+![Capture](images/photo1691746164.jpeg)
 
 ## Addtions
-We added a mini Ipad which provided a UI(User Interface) song menu of 5 songs for players to pick. Once they've chosen, this will execute the LED sequence program which can be located under the folders [here](MIDI_Code/MIDI_Code_Game_Drum_Keyboard/) and the LED will light up in sequence according to the chosen song
+We added a mini Ipad which provides a UI(User Interface) song menu of 5 songs for players to pick. Once they've chosen, this will execute the LED sequence program which can be located under the folders [here](MIDI_Code/MIDI_Code_Game_Drum_Keyboard/) and the LED will light up in sequence according to the chosen song
 
 ![Capture](images/Songmenu.jpg)
 
