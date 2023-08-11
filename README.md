@@ -123,7 +123,7 @@ Here is a link for our multiplayer [musical game station 1][station1_url] to You
 
 ## Final Product
 ![Capture](images/Final_Products.jpg)
-This is the outlook of our setup for our final product. We removed the drum kit instrument and the visual monitor concept where it guides to players to know where to hit.
+This is the outlook of our setup for our final product. We removed the drum kit instrument and the 2 monitors and added videos to be displayed from a projector for each song.
 
 ## Addtions
 We added a mini Ipad which provided a UI(User Interface) song menu of 5 songs for players to pick. Once they've chosen, this will execute the LED sequence program which can be located under the folders [here](MIDI_Code/MIDI_Code_Game_Drum_Keyboard/) and the LED will light up in sequence according to the chosen song
@@ -139,11 +139,11 @@ We added a mini Ipad which provided a UI(User Interface) song menu of 5 songs fo
 Players will have to pick a song of your choice from the song list on the Ipad 
 
 ### Step 2:
-There will be a countdown of 3 secsonds, for the players
+There will be a countdown of 3 seconds, for the players
 to get ready 
 
 ### Step 3:
-The LED will start flashing after the countdown and players would use the sticks to hit correspondingly
+The LEDs on the keyboard will start flashing after the countdown and players can use the drumsticks to hit the keys according to the flashing LEDs. The speakers will play the tunes if the player touches a key with the drumstick.
 
 ![Capture](images/Hit.jpg)
 
