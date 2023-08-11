@@ -49,6 +49,7 @@ RJ45 LAN cable x 4<br>
 Phidgets that control the LEDs and sensors, they are connected to a laptop in the rack
 ![Capture](images/keyboardled.jpg)
 The video on the monitors will show the keys that need to be pressed by player 1 or 2 using the drumsticks. The red and green LEDs on the 2 keyboards will also light up to indicate the correct keys to press.Once the LEDs turn off the player has to let go of the key.
+
 ![Capture](images/rack2.jpg)
 ## Network Settings
 ```
@@ -66,7 +67,8 @@ These are the Midi keyboard and drum user interfaces for users to play on.
 * The MIDI `eth0` interfaces are powered and controlled by Arduino Leonardo micro-controllers
 * The wires are connected from the Arduino to the aluminium tape which is used as a conductive sensor for the users to touch. When they touch the keys with the drumstick, it will register and play the desired notes for the respective instruments.
 
-![Alt](images/MIDIcode.jpg)
+By clicking [here](MIDI_Code/MIDI_Code_Game_Drum_Keyboard/), will locate you to the folder of the various written program scripts responsible to register different musical notes mapped on the respective aluminium tape keys which emit the tunes when touched .
+
 This is the program for the MIDI instruments which is programed into the arduino leonardo and used to produce notes with the help of **Reaper software**.
 
 # Minimum viable product
@@ -121,7 +123,10 @@ Here is a link for our multiplayer [musical game station 1][station1_url] to You
 
 ## Final Product
 ![Capture](images/Final_Products.jpg)
-This is the outlook of our setup for our final product
+This is the outlook of our setup for our final product. We removed the drum kit instrument and the visual monitor concept where it guides to players to know where to hit.
+
+## Addtions
+We added a mini Ipad which provided a UI(user interface) for them to pick the song of their choice.
 
 
 
