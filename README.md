@@ -69,7 +69,7 @@ These are the Midi keyboard and drum user interfaces for users to play on.
 
 By clicking [here](MIDI_Code/MIDI_Code_Game_Drum_Keyboard/), will locate you to the folder of the various written program scripts responsible to register different musical notes mapped on the respective aluminium tape keys which emit the tunes when touched .
 
-This is the program for the MIDI instruments which is programed into the arduino leonardo and used to produce notes with the help of **Reaper software**.
+The program `MIDI_Code_Left_Hand.ino` and `MIDI_Code_Right_Hand.ino` for the MIDI instruments which is programed into the arduino leonardo and used to produce notes with the help of **Reaper software**.
 
 # Minimum viable product
 ## Cooperative game
@@ -126,9 +126,26 @@ Here is a link for our multiplayer [musical game station 1][station1_url] to You
 This is the outlook of our setup for our final product. We removed the drum kit instrument and the visual monitor concept where it guides to players to know where to hit.
 
 ## Addtions
-We added a mini Ipad which provided a UI(user interface) for them to pick the song of their choice.
+We added a mini Ipad which provided a UI(User Interface) song menu of 5 songs for players to pick. Once they've chosen, this will execute the LED sequence program which can be located under the folders [here](MIDI_Code/MIDI_Code_Game_Drum_Keyboard/) and the LED will light up in sequence according to the chosen song
 
+![Capture](images/Songmenu.jpg)
 
+## Poster 
+![Capture](images/Poster.jpg)
+
+## How to Play
+
+### Step 1:
+Players will have to pick a song of your choice from the song list on the Ipad 
+
+### Step 2:
+There will be a countdown of 3 secsonds, for the players
+to get ready 
+
+### Step 3:
+The LED will start flashing after the countdown and players would use the sticks to hit correspondingly
+
+![Capture](images/Hit.jpg)
 
 
 
