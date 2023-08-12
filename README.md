@@ -123,12 +123,13 @@ Here is a link for our multiplayer [musical game station 1][station1_url] to You
 
 ## Final Product
 ![Capture](images/Final_Products.jpg)
-This is the outlook of our setup for our final product. We replaced the 2 touch sensors with a UI interface. We removed the drum kit instrument and the 2 monitors and added videos to be displayed from a projector for each song, using the software Pandora's Box.
+This is the outlook of our setup for our final product. We replaced the 2 touch sensors with a UI interface. We removed the drum kit instrument and the 2 monitors and added videos to be displayed from a projector for each song, using the software Pandora's Box.<br>
+Click [here](https://youtu.be/L-3doAb-l_s) to watch a short presentation Youtube video on the technical setup behind everything.
 
 ![Capture](images/photo1691746164.jpeg)
 
 ## Addtions
-We added a mini Ipad which provides a UI(User Interface) song menu of 5 songs for players to pick. Once they've chosen, this will execute the LED sequence program which can be located under the folders [here](MIDI_Code/MIDI_Code_Game_Drum_Keyboard/) and the LED will light up in sequence according to the chosen song
+We added a mini Ipad which provides a UI(User Interface) song menu of 5 songs for players to pick. Once they've chosen, this will execute the LED sequence program which can be located under the folder `MIDI_Code/MIDI_Code_Game_Drum_Keyboard/`, and the LED will light up in sequence according to the chosen song
 
 ![Capture](images/Songmenu.jpg)
 
@@ -136,6 +137,8 @@ We added a mini Ipad which provides a UI(User Interface) song menu of 5 songs fo
 ![Capture](images/Poster.jpg)
 
 ## How to Play
+
+Click [here](https://youtu.be/SGN76R2txY0) to watch a short game demonstration on Youtube.
 
 ### Step 1:
 Players will have to pick a song of your choice from the song list on the Ipad 
