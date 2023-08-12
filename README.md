@@ -138,7 +138,7 @@ We added a mini Ipad which provides a UI(User Interface) song menu of 5 songs fo
 
 ## How to Play
 
-Click [here](https://youtu.be/SGN76R2txY0) to watch a short game demonstration on Youtube.
+Click [here](https://youtu.be/SGN76R2txY0) to watch a short game demonstration Youtube video on how to play the musical game.
 
 ### Step 1:
 Players will have to pick a song of your choice from the song list on the Ipad 
