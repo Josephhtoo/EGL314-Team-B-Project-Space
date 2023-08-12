@@ -128,7 +128,7 @@ Click [here](https://youtu.be/L-3doAb-l_s) to watch a short presentation Youtube
 
 ![Capture](images/photo1691746164.jpeg)
 
-## Addtions
+## UI(User interface)
 We added a mini Ipad which provides a UI(User Interface) song menu of 5 songs for players to pick. Once they've chosen, this will execute the LED sequence program which can be located under the folder `MIDI_Code/MIDI_Code_Game_Drum_Keyboard/`, and the LED will light up in sequence according to the chosen song
 
 ![Capture](images/Songmenu.jpg)
